@@ -1,0 +1,17 @@
+.each-li {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+}
+.profile-image-container {
+  display: flex;
+  flex-direction: row;
+}
+.thumbnail-image {
+  height: 8vh;
+  width: 14vw;
+}
+.profile-image 
+{
+  height:10px;
+}

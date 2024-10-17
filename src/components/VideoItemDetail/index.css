@@ -1,0 +1,23 @@
+.each-card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+}
+.likes-container {
+  display: flex;
+  flex-direction: row;
+}
+.views-like-button container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.channel-name-container {
+  display: flex;
+  flex-direction: column;
+}
+.hr 
+{
+  color:white;
+}
